@@ -26,7 +26,7 @@ This is a desktop application designed to help educators and students quickly ge
         ```bash
         pip install customtkinter google-generativeai fpdf PyPDF2
         ```
-    * **I currently have added a free api key which might stop working. If faculty want an api key for testing in case the current key actually stopped working they can mail me at theniteshsolanki@gmail.com
+    * ** I currently have added a free api key which might stop working. If faculty want an api key for testing in case the current key actually stopped working they can mail me at theniteshsolanki@gmail.com
 
 3.  **Set up API Key:**
 
