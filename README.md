@@ -1,15 +1,17 @@
 # Nitesh_MCA_A_StudentAssistant
 
-Project Description
+## Project Description
 This is a desktop application designed to help educators and students quickly generate practical programming assignments. The application takes a topic or notes as input (either typed in or uploaded as a PDF) and uses the Gemini AI model to create an assignment with two questions: one easy and one intermediate. The generated assignment can then be downloaded as a PDF. The application features a user-friendly graphical interface with a light/dark theme toggle.
-Technologies Used
+
+## Technologies Used
 Python
 CustomTkinter (for the GUI)
 Google Generative AI (Gemini)
 fpdf (for PDF generation)
 PyPDF2 (for PDF text extraction)
 Steps to Run/Execute the Project
-Prerequisites:
+
+## Prerequisites:
 Python 3.8 or higher
 Ensure you have pip installed.
 Install Dependencies:
