@@ -20,20 +20,19 @@ Open a terminal or command prompt in the project directory.
 Run the following command to install the required Python packages:
 pip install customtkinter google-generativeai fpdf PyPDF2
 
-
 You will also need a Google Gemini API key. Obtain one and replace the placeholder in the code.
 Set up API Key:
 Locate the line in main.py that says:
 genai.configure(api_key="YOUR_API_KEY")  # Replace with your actual API key
-
 
 Replace "YOUR_API_KEY" with your actual Gemini API key.
 Run the Application:
 In the same terminal, run the following command:
 python main.py
 
-
-The application window will appear.
+### I currently have added a free api key which might stop working. If faculty want an api key for testing in case the current key actually stopped working they can mail me at theniteshsolanki@gmail.com
+ 
+## The application window will appear.
 How to Use the Application:
 Upload PDF: Click the "Upload Notes PDF" button to upload a PDF file containing your notes. The text from the PDF will be extracted and placed in the topic entry.
 Enter Topic/Notes: Type your topic or notes directly into the "Enter Topic or Paste Notes..." text entry field.
